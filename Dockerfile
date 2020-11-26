@@ -17,5 +17,5 @@ LABEL maintainer="Hailin Tao" \
       io.daocloud.dce.plugin.nano-cpus-limit="500000000" \
       io.daocloud.dce.plugin.memory-bytes-limit="52428800"
 
-COPY ./dist  /usr/share/nginx/html
+COPY ./dist/*  /usr/share/nginx/html
 COPY plugin  /usr/share/nginx/html
