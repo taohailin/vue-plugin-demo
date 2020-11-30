@@ -20,7 +20,7 @@
                     "ClassName": "dce.client.htmlbridge.HtmlView",
                     "Object": {
                         "Root": {
-                            "URL": "/dist/index.html"
+                            "URL": "/index.html"
                         }
                     }
                 }
